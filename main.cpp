@@ -1,4 +1,4 @@
-/* trunfo novato */
+/* trunfo novato primeiro codigo */
 #include <stdio.h>
 #include <string.h>
 
@@ -11,6 +11,7 @@ int main(void) {
     float area1;
     float pib1;
     int  pontos1;
+
 
     /* Carta 2 */
     char estado2;
